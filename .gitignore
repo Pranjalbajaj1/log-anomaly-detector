@@ -1,0 +1,11 @@
+# Logs
+logs/
+
+# Executables
+*.exe
+log_generator
+generator
+
+# Compiler artifacts
+*.out
+
